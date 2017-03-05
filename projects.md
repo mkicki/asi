@@ -66,7 +66,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 18. [Kacprzak, Mateusz](https://github.com/implssv/MessageApp). [MessageApp](http://serene-spire-89656.herokuapp.com)
 19. Kaczmarz, Tomasz 21.02
 20. Kawa, Piotr 21.02
-21. Kicki, Maksymilian 21.02
+21. [Kicki, Maksymilian](https://github.com/mkicki/Herbaciarnia). [Herbaciarnia](https://herbaciarnia.herokuapp.com) 21.02
 22. Knitter, Tadeusz 21.02
 53. Kot, Kamil
 23. Laskowski, Piotr
@@ -79,6 +79,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 30. Pyszyńska, Martyna 21.02
 31. Sędek, Szymon
 63. Sadowski, Łukasz
+
 32. Stefański, Aleksander
 33. [Szymanowski, Grzegorz](https://github.com/gwszymanowski/Ruby-projekt-indywidualny). [Biblioteka ksiazek](https://biblioteka-ksiazek.herokuapp.com/)
 34. Świstun, Szymon
